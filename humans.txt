@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Allen -- CEO -- https://twitter.con/vpnzuy
+
+# THANKS
+
+    Erica (the love of my life)
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, BOOTSTRAP, MOBIRISE4
